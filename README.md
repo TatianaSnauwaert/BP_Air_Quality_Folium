@@ -23,8 +23,10 @@ The logbook of this project can be found [here](https://docs.google.com/spreadsh
 - Lessons learned from the project
 
 This repo contains the following files:
-- Input folder (district boarders data, air quality data, description of AQI levels);
+- Input folder (district borders data, air quality data, description of AQI levels);
 - Output folder (4 maps of this project in the html format);
 - Jupyter notebook with my code (the maps might not be displayed if you open this file on github, please download html maps and open them separately).
+
+The dataset for this project can be found [here](https://www.kaggle.com/tatianasnwrt/geo-bud-districts).
 
 The project can also be found on this [Kaggle page](https://www.kaggle.com/tatianasnwrt/visualizing-air-quality-in-budapest-folium?scriptVersionId=36417494).
